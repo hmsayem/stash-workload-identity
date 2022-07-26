@@ -1,0 +1,1 @@
+eksctl get iamidentitymapping --cluster kube2iam-demo
